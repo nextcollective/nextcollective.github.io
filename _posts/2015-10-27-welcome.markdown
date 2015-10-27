@@ -1,0 +1,6 @@
+---
+published: true
+title: Welcome
+layout: post
+---
+Welcome to the NEXT Leaders Blog.  This is a place for longer-form collaboration and conversation about launching, leading, and multiplying Jesus Movement.
