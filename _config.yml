@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nextcollective.github.io
+title: NEXT Leaders
+tagline: Learning, Launching, Leading, Multiplying
+description: My awesome new site
+paginate: 5
